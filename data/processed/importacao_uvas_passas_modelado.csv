@@ -1,0 +1,526 @@
+Id,País,ano,volume,valor
+1,Afeganistão,2009,0,0
+1,Afeganistão,2010,18000,28050
+1,Afeganistão,2011,400000,669059
+1,Afeganistão,2012,0,0
+1,Afeganistão,2013,18000,32600
+1,Afeganistão,2014,456000,789790
+1,Afeganistão,2015,125000,179545
+1,Afeganistão,2016,0,0
+1,Afeganistão,2017,0,0
+1,Afeganistão,2018,0,0
+1,Afeganistão,2019,40000,65452
+1,Afeganistão,2020,0,0
+1,Afeganistão,2021,0,484
+1,Afeganistão,2022,0,0
+1,Afeganistão,2023,0,0
+2,África do Sul,2009,195000,563360
+2,África do Sul,2010,700846,2037012
+2,África do Sul,2011,184250,596923
+2,África do Sul,2012,986750,3527083
+2,África do Sul,2013,0,0
+2,África do Sul,2014,2220275,3507617
+2,África do Sul,2015,1418063,3278109
+2,África do Sul,2016,617500,1487082
+2,África do Sul,2017,370500,942442
+2,África do Sul,2018,1089700,3106052
+2,África do Sul,2019,270875,763921
+2,África do Sul,2020,616688,1433381
+2,África do Sul,2021,327000,531327
+2,África do Sul,2022,657826,1266633
+2,África do Sul,2023,151500,397825
+3,"Alemanha, República Democrática",2009,0,0
+3,"Alemanha, República Democrática",2010,0,0
+3,"Alemanha, República Democrática",2011,0,0
+3,"Alemanha, República Democrática",2012,0,0
+3,"Alemanha, República Democrática",2013,0,0
+3,"Alemanha, República Democrática",2014,0,0
+3,"Alemanha, República Democrática",2015,0,0
+3,"Alemanha, República Democrática",2016,0,0
+3,"Alemanha, República Democrática",2017,0,0
+3,"Alemanha, República Democrática",2018,0,0
+3,"Alemanha, República Democrática",2019,0,0
+3,"Alemanha, República Democrática",2020,0,0
+3,"Alemanha, República Democrática",2021,0,0
+3,"Alemanha, República Democrática",2022,0,0
+3,"Alemanha, República Democrática",2023,0,0
+4,Arábia Saudita,2009,0,0
+4,Arábia Saudita,2010,0,0
+4,Arábia Saudita,2011,0,0
+4,Arábia Saudita,2012,0,0
+4,Arábia Saudita,2013,0,0
+4,Arábia Saudita,2014,0,0
+4,Arábia Saudita,2015,0,0
+4,Arábia Saudita,2016,0,0
+4,Arábia Saudita,2017,0,0
+4,Arábia Saudita,2018,0,0
+4,Arábia Saudita,2019,0,0
+4,Arábia Saudita,2020,0,0
+4,Arábia Saudita,2021,0,0
+4,Arábia Saudita,2022,0,0
+4,Arábia Saudita,2023,0,0
+5,Argentina,2009,17209323,24106889
+5,Argentina,2010,17279688,34499504
+5,Argentina,2011,20533473,43262321
+5,Argentina,2012,19728826,43648893
+5,Argentina,2013,20571302,47105230
+5,Argentina,2014,14681136,34049473
+5,Argentina,2015,20905602,32341307
+5,Argentina,2016,23280908,34643821
+5,Argentina,2017,19742996,34422405
+5,Argentina,2018,23564519,43501396
+5,Argentina,2019,24135143,48810789
+5,Argentina,2020,24992502,36743996
+5,Argentina,2021,24015825,33337604
+5,Argentina,2022,20829418,35659325
+5,Argentina,2023,19758017,36404746
+6,Austrália,2009,0,0
+6,Austrália,2010,0,0
+6,Austrália,2011,0,0
+6,Austrália,2012,0,0
+6,Austrália,2013,0,0
+6,Austrália,2014,0,0
+6,Austrália,2015,0,0
+6,Austrália,2016,0,0
+6,Austrália,2017,0,0
+6,Austrália,2018,0,0
+6,Austrália,2019,0,0
+6,Austrália,2020,0,0
+6,Austrália,2021,0,0
+6,Austrália,2022,0,0
+6,Austrália,2023,0,0
+7,Bélgica,2009,0,0
+7,Bélgica,2010,0,0
+7,Bélgica,2011,0,0
+7,Bélgica,2012,0,0
+7,Bélgica,2013,0,0
+7,Bélgica,2014,0,0
+7,Bélgica,2015,0,0
+7,Bélgica,2016,0,0
+7,Bélgica,2017,0,0
+7,Bélgica,2018,0,0
+7,Bélgica,2019,0,0
+7,Bélgica,2020,0,0
+7,Bélgica,2021,0,0
+7,Bélgica,2022,0,0
+7,Bélgica,2023,0,0
+8,Chile,2009,4498510,6469816
+8,Chile,2010,814720,1660791
+8,Chile,2011,1127280,2614062
+8,Chile,2012,2046530,5049441
+8,Chile,2013,453310,1123963
+8,Chile,2014,2615382,5771763
+8,Chile,2015,747700,1522661
+8,Chile,2016,365670,613554
+8,Chile,2017,483305,971604
+8,Chile,2018,127231,290772
+8,Chile,2019,384437,1096176
+8,Chile,2020,286774,567197
+8,Chile,2021,225630,462855
+8,Chile,2022,3584100,5524707
+8,Chile,2023,4411180,7107544
+9,China,2009,0,0
+9,China,2010,0,0
+9,China,2011,0,0
+9,China,2012,0,0
+9,China,2013,0,0
+9,China,2014,0,0
+9,China,2015,0,0
+9,China,2016,0,0
+9,China,2017,0,0
+9,China,2018,0,0
+9,China,2019,0,0
+9,China,2020,172000,178472
+9,China,2021,110,76
+9,China,2022,0,0
+9,China,2023,72000,111390
+10,China Continental,2009,0,0
+10,China Continental,2010,19000,39520
+10,China Continental,2011,19200,51100
+10,China Continental,2012,63000,216812
+10,China Continental,2013,100027,193223
+10,China Continental,2014,98050,142328
+10,China Continental,2015,0,0
+10,China Continental,2016,0,0
+10,China Continental,2017,53000,65028
+10,China Continental,2018,224165,279253
+10,China Continental,2019,934000,1352954
+10,China Continental,2020,0,0
+10,China Continental,2021,0,0
+10,China Continental,2022,0,0
+10,China Continental,2023,0,0
+11,Cingapura,2009,0,0
+11,Cingapura,2010,0,0
+11,Cingapura,2011,38150,97572
+11,Cingapura,2012,0,0
+11,Cingapura,2013,40000,77213
+11,Cingapura,2014,0,0
+11,Cingapura,2015,0,0
+11,Cingapura,2016,0,0
+11,Cingapura,2017,0,0
+11,Cingapura,2018,0,0
+11,Cingapura,2019,0,0
+11,Cingapura,2020,0,0
+11,Cingapura,2021,0,0
+11,Cingapura,2022,0,0
+11,Cingapura,2023,0,0
+12,Costa Rica,2009,0,0
+12,Costa Rica,2010,0,0
+12,Costa Rica,2011,0,0
+12,Costa Rica,2012,0,0
+12,Costa Rica,2013,0,0
+12,Costa Rica,2014,0,0
+12,Costa Rica,2015,0,0
+12,Costa Rica,2016,0,0
+12,Costa Rica,2017,0,0
+12,Costa Rica,2018,0,0
+12,Costa Rica,2019,0,0
+12,Costa Rica,2020,0,0
+12,Costa Rica,2021,0,0
+12,Costa Rica,2022,49000,95550
+12,Costa Rica,2023,0,0
+13,Emirados,2009,39000,94203
+13,Emirados,2010,20000,44949
+13,Emirados,2011,35460,100631
+13,Emirados,2012,19000,70026
+13,Emirados,2013,240800,442625
+13,Emirados,2014,100000,184835
+13,Emirados,2015,40000,95856
+13,Emirados,2016,0,0
+13,Emirados,2017,0,0
+13,Emirados,2018,0,0
+13,Emirados,2019,0,0
+13,Emirados,2020,0,0
+13,Emirados,2021,0,0
+13,Emirados,2022,0,0
+13,Emirados,2023,0,0
+14,Espanha,2009,0,0
+14,Espanha,2010,0,0
+14,Espanha,2011,0,0
+14,Espanha,2012,0,0
+14,Espanha,2013,0,0
+14,Espanha,2014,0,0
+14,Espanha,2015,0,0
+14,Espanha,2016,0,0
+14,Espanha,2017,0,0
+14,Espanha,2018,0,0
+14,Espanha,2019,1,24
+14,Espanha,2020,0,0
+14,Espanha,2021,0,0
+14,Espanha,2022,0,0
+14,Espanha,2023,0,0
+15,Estados Unidos,2009,347316,783086
+15,Estados Unidos,2010,526225,1274258
+15,Estados Unidos,2011,391515,1180759
+15,Estados Unidos,2012,512716,1619257
+15,Estados Unidos,2013,538319,1622047
+15,Estados Unidos,2014,369887,1113398
+15,Estados Unidos,2015,350138,1034494
+15,Estados Unidos,2016,236134,636045
+15,Estados Unidos,2017,257670,671036
+15,Estados Unidos,2018,42859,244215
+15,Estados Unidos,2019,90132,345044
+15,Estados Unidos,2020,105360,266627
+15,Estados Unidos,2021,109043,325880
+15,Estados Unidos,2022,115517,380380
+15,Estados Unidos,2023,7578,58262
+16,França,2009,0,0
+16,França,2010,0,0
+16,França,2011,0,0
+16,França,2012,1474,12148
+16,França,2013,720,6016
+16,França,2014,1600,3368
+16,França,2015,658,4705
+16,França,2016,0,0
+16,França,2017,0,0
+16,França,2018,0,0
+16,França,2019,0,0
+16,França,2020,0,0
+16,França,2021,0,0
+16,França,2022,0,0
+16,França,2023,0,0
+17,Grécia,2009,0,0
+17,Grécia,2010,0,0
+17,Grécia,2011,4095,25496
+17,Grécia,2012,0,0
+17,Grécia,2013,0,0
+17,Grécia,2014,10000,24994
+17,Grécia,2015,0,0
+17,Grécia,2016,4000,9248
+17,Grécia,2017,1950,4287
+17,Grécia,2018,1600,5156
+17,Grécia,2019,0,0
+17,Grécia,2020,0,0
+17,Grécia,2021,0,0
+17,Grécia,2022,0,0
+17,Grécia,2023,0,0
+18,Guiana Britânica,2009,0,0
+18,Guiana Britânica,2010,0,0
+18,Guiana Britânica,2011,0,0
+18,Guiana Britânica,2012,0,0
+18,Guiana Britânica,2013,0,0
+18,Guiana Britânica,2014,0,0
+18,Guiana Britânica,2015,0,0
+18,Guiana Britânica,2016,0,0
+18,Guiana Britânica,2017,0,0
+18,Guiana Britânica,2018,0,0
+18,Guiana Britânica,2019,0,0
+18,Guiana Britânica,2020,0,0
+18,Guiana Britânica,2021,0,0
+18,Guiana Britânica,2022,0,0
+18,Guiana Britânica,2023,0,0
+19,Índia,2009,128000,270168
+19,Índia,2010,0,0
+19,Índia,2011,0,0
+19,Índia,2012,166862,268758
+19,Índia,2013,36000,64213
+19,Índia,2014,247000,377422
+19,Índia,2015,57000,60717
+19,Índia,2016,162000,346815
+19,Índia,2017,397130,476398
+19,Índia,2018,736700,1007031
+19,Índia,2019,481000,677056
+19,Índia,2020,883000,813317
+19,Índia,2021,577250,504532
+19,Índia,2022,2767840,2568914
+19,Índia,2023,1293900,1379545
+20,Irã,2009,112460,191560
+20,Irã,2010,4112310,6968914
+20,Irã,2011,533570,1250450
+20,Irã,2012,306700,995038
+20,Irã,2013,1415828,2617493
+20,Irã,2014,942500,1700379
+20,Irã,2015,184500,418722
+20,Irã,2016,493000,1113453
+20,Irã,2017,1194500,1975882
+20,Irã,2018,340000,817941
+20,Irã,2019,646000,1369316
+20,Irã,2020,435600,927189
+20,Irã,2021,514700,843794
+20,Irã,2022,403000,948438
+20,Irã,2023,786500,1832934
+21,Itália,2009,0,0
+21,Itália,2010,0,0
+21,Itália,2011,10,39
+21,Itália,2012,0,0
+21,Itália,2013,0,0
+21,Itália,2014,0,0
+21,Itália,2015,0,0
+21,Itália,2016,0,0
+21,Itália,2017,0,0
+21,Itália,2018,0,0
+21,Itália,2019,0,0
+21,Itália,2020,0,0
+21,Itália,2021,0,0
+21,Itália,2022,0,0
+21,Itália,2023,0,0
+22,Japão,2009,0,0
+22,Japão,2010,0,0
+22,Japão,2011,0,0
+22,Japão,2012,0,0
+22,Japão,2013,0,0
+22,Japão,2014,0,0
+22,Japão,2015,0,0
+22,Japão,2016,0,0
+22,Japão,2017,0,0
+22,Japão,2018,0,0
+22,Japão,2019,0,0
+22,Japão,2020,0,0
+22,Japão,2021,0,0
+22,Japão,2022,0,0
+22,Japão,2023,0,0
+23,México,2009,0,0
+23,México,2010,0,0
+23,México,2011,0,0
+23,México,2012,0,0
+23,México,2013,0,0
+23,México,2014,0,0
+23,México,2015,0,0
+23,México,2016,0,0
+23,México,2017,0,0
+23,México,2018,0,0
+23,México,2019,0,0
+23,México,2020,0,0
+23,México,2021,0,0
+23,México,2022,0,0
+23,México,2023,0,0
+24,Países Baixos,2009,0,0
+24,Países Baixos,2010,0,0
+24,Países Baixos,2011,0,0
+24,Países Baixos,2012,0,0
+24,Países Baixos,2013,0,0
+24,Países Baixos,2014,0,0
+24,Países Baixos,2015,0,0
+24,Países Baixos,2016,0,0
+24,Países Baixos,2017,0,0
+24,Países Baixos,2018,0,0
+24,Países Baixos,2019,0,0
+24,Países Baixos,2020,0,0
+24,Países Baixos,2021,0,0
+24,Países Baixos,2022,0,0
+24,Países Baixos,2023,0,0
+25,Paraguai,2009,0,0
+25,Paraguai,2010,0,0
+25,Paraguai,2011,0,0
+25,Paraguai,2012,0,0
+25,Paraguai,2013,0,0
+25,Paraguai,2014,0,0
+25,Paraguai,2015,0,0
+25,Paraguai,2016,0,0
+25,Paraguai,2017,0,0
+25,Paraguai,2018,0,0
+25,Paraguai,2019,0,0
+25,Paraguai,2020,0,0
+25,Paraguai,2021,0,0
+25,Paraguai,2022,0,0
+25,Paraguai,2023,0,0
+26,Peru,2009,0,0
+26,Peru,2010,0,0
+26,Peru,2011,0,0
+26,Peru,2012,0,0
+26,Peru,2013,0,0
+26,Peru,2014,0,0
+26,Peru,2015,0,0
+26,Peru,2016,0,0
+26,Peru,2017,10,10
+26,Peru,2018,0,0
+26,Peru,2019,0,0
+26,Peru,2020,0,0
+26,Peru,2021,0,0
+26,Peru,2022,0,0
+26,Peru,2023,25000,40630
+27,Portugal,2009,0,0
+27,Portugal,2010,0,0
+27,Portugal,2011,13,59
+27,Portugal,2012,0,0
+27,Portugal,2013,0,0
+27,Portugal,2014,0,0
+27,Portugal,2015,250,445
+27,Portugal,2016,0,0
+27,Portugal,2017,0,0
+27,Portugal,2018,0,0
+27,Portugal,2019,0,2
+27,Portugal,2020,0,0
+27,Portugal,2021,0,0
+27,Portugal,2022,0,0
+27,Portugal,2023,0,0
+28,Reino Unido,2009,0,0
+28,Reino Unido,2010,0,0
+28,Reino Unido,2011,0,0
+28,Reino Unido,2012,0,0
+28,Reino Unido,2013,0,0
+28,Reino Unido,2014,10,170
+28,Reino Unido,2015,25,426
+28,Reino Unido,2016,21,402
+28,Reino Unido,2017,66,1494
+28,Reino Unido,2018,20,461
+28,Reino Unido,2019,11,209
+28,Reino Unido,2020,0,0
+28,Reino Unido,2021,0,0
+28,Reino Unido,2022,0,0
+28,Reino Unido,2023,0,0
+29,Suécia,2009,0,0
+29,Suécia,2010,0,0
+29,Suécia,2011,0,0
+29,Suécia,2012,0,0
+29,Suécia,2013,0,0
+29,Suécia,2014,0,0
+29,Suécia,2015,0,0
+29,Suécia,2016,0,0
+29,Suécia,2017,0,0
+29,Suécia,2018,0,0
+29,Suécia,2019,0,0
+29,Suécia,2020,0,0
+29,Suécia,2021,0,0
+29,Suécia,2022,0,0
+29,Suécia,2023,0,0
+30,Turquia,2009,126600,169075
+30,Turquia,2010,2428575,4111212
+30,Turquia,2011,987310,1735466
+30,Turquia,2012,709785,1161161
+30,Turquia,2013,0,0
+30,Turquia,2014,1981070,3507617
+30,Turquia,2015,1006000,1666760
+30,Turquia,2016,2386092,3162573
+30,Turquia,2017,2834805,4001169
+30,Turquia,2018,262616,494370
+30,Turquia,2019,427590,865709
+30,Turquia,2020,607780,1210554
+30,Turquia,2021,186000,311165
+30,Turquia,2022,1477000,2602207
+30,Turquia,2023,2621500,4152236
+31,Uruguai,2009,0,0
+31,Uruguai,2010,0,0
+31,Uruguai,2011,0,0
+31,Uruguai,2012,0,0
+31,Uruguai,2013,0,0
+31,Uruguai,2014,0,0
+31,Uruguai,2015,0,0
+31,Uruguai,2016,0,0
+31,Uruguai,2017,0,0
+31,Uruguai,2018,0,0
+31,Uruguai,2019,0,0
+31,Uruguai,2020,25000,35866
+31,Uruguai,2021,0,0
+31,Uruguai,2022,0,0
+31,Uruguai,2023,0,0
+32,Uzbequistão,2009,0,0
+32,Uzbequistão,2010,0,0
+32,Uzbequistão,2011,40000,63483
+32,Uzbequistão,2012,71900,127883
+32,Uzbequistão,2013,0,0
+32,Uzbequistão,2014,0,0
+32,Uzbequistão,2015,0,0
+32,Uzbequistão,2016,0,0
+32,Uzbequistão,2017,0,0
+32,Uzbequistão,2018,0,0
+32,Uzbequistão,2019,399630,624285
+32,Uzbequistão,2020,397030,450389
+32,Uzbequistão,2021,0,0
+32,Uzbequistão,2022,132000,165492
+32,Uzbequistão,2023,2045600,2433719
+33,Venezuela,2009,0,0
+33,Venezuela,2010,0,0
+33,Venezuela,2011,0,0
+33,Venezuela,2012,0,0
+33,Venezuela,2013,0,0
+33,Venezuela,2014,0,0
+33,Venezuela,2015,0,0
+33,Venezuela,2016,0,0
+33,Venezuela,2017,0,0
+33,Venezuela,2018,0,0
+33,Venezuela,2019,0,0
+33,Venezuela,2020,0,0
+33,Venezuela,2021,0,0
+33,Venezuela,2022,0,0
+33,Venezuela,2023,0,0
+34,Não consta na tabela,2009,0,0
+34,Não consta na tabela,2010,0,0
+34,Não consta na tabela,2011,0,0
+34,Não consta na tabela,2012,0,0
+34,Não consta na tabela,2013,0,0
+34,Não consta na tabela,2014,0,0
+34,Não consta na tabela,2015,0,0
+34,Não consta na tabela,2016,0,0
+34,Não consta na tabela,2017,0,0
+34,Não consta na tabela,2018,0,0
+34,Não consta na tabela,2019,0,0
+34,Não consta na tabela,2020,0,0
+34,Não consta na tabela,2021,0,0
+34,Não consta na tabela,2022,0,0
+34,Não consta na tabela,2023,0,0
+35,Outros,2009,0,0
+35,Outros,2010,0,0
+35,Outros,2011,0,0
+35,Outros,2012,0,0
+35,Outros,2013,0,0
+35,Outros,2014,0,0
+35,Outros,2015,0,0
+35,Outros,2016,0,0
+35,Outros,2017,0,0
+35,Outros,2018,0,0
+35,Outros,2019,0,0
+35,Outros,2020,0,0
+35,Outros,2021,0,0
+35,Outros,2022,0,0
+35,Outros,2023,0,0
