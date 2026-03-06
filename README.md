@@ -1,51 +1,64 @@
 # Brazil Wine Export Analytics
 
-Data analytics project exploring Brazilian wine export data to identify market trends, key destination countries, and strategic insights for international expansion.
+Projeto de análise de dados sobre as exportações brasileiras de vinho, com foco em identificar tendências de mercado, países de destino mais relevantes e insights estratégicos para expansão internacional.
 
 ---
 
-## Project Overview
+## Visão Geral
 
-This project analyzes historical data on Brazilian wine exports in order to understand international demand patterns and identify opportunities for market growth.
+Este projeto analisa dados históricos de exportação de vinhos brasileiros com o objetivo de entender o comportamento da demanda internacional e apoiar decisões de negócio orientadas por dados.
 
-The analysis simulates the work of a data analyst supporting strategic decision-making in a Brazilian company that exports wine to global markets.
-
----
-
-## Objectives
-
-The main objectives of this project are:
-
-- Identify the main destination countries for Brazilian wine exports
-- Analyze export trends over time
-- Measure export volume (liters) and export value (USD)
-- Explore potential external factors influencing exports
-- Generate insights to support strategic business decisions
+A proposta simula o trabalho de uma pessoa analista de dados atuando no suporte à estratégia comercial de uma empresa brasileira do setor vitivinícola com atuação no mercado externo.
 
 ---
 
-## Dataset
+## Problema de Negócio
 
-The dataset used in this project comes from the **Embrapa Vitibrasil database**, which provides historical data about the Brazilian wine industry.
+Empresas exportadoras precisam entender quais mercados apresentam maior relevância, como o desempenho evolui ao longo do tempo e onde existem oportunidades de crescimento.
 
-Source:  
+Neste contexto, a análise busca responder perguntas como:
+
+- Quais países mais importam vinho brasileiro?
+- Como o volume exportado evoluiu ao longo do tempo?
+- Existe concentração em poucos mercados?
+- Quais padrões podem apoiar decisões estratégicas de expansão?
+
+---
+
+## Objetivo
+
+Os principais objetivos deste projeto são:
+
+- identificar os principais países de destino das exportações
+- analisar a evolução do volume exportado ao longo do tempo
+- avaliar o valor exportado em dólares
+- explorar padrões e concentração de mercado
+- gerar insights que apoiem decisões estratégicas de negócio
+
+---
+
+## Base de Dados
+
+A base utilizada neste projeto foi extraída da **Embrapa Vitibrasil**, referência em dados da cadeia vitivinícola brasileira.
+
+**Fonte:**  
 http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=opt_01
 
-The database contains information related to:
+A base disponibiliza informações sobre:
 
-- Wine production
-- Wine processing
-- Domestic commercialization
-- Imports
-- Exports
+- produção
+- processamento
+- comercialização
+- importação
+- exportação
 
-For this project, the analysis focuses specifically on **Brazilian wine export data**.
+Neste projeto, o foco está especificamente nos dados de **exportação de vinhos brasileiros**.
 
 ---
 
-## Tools and Technologies
+## Ferramentas e Tecnologias
 
-This project was developed using:
+Este projeto foi desenvolvido com:
 
 - Python
 - Pandas
@@ -56,47 +69,46 @@ This project was developed using:
 
 ---
 
-## Exploratory Data Analysis
+## Etapas da Análise
 
-The exploratory analysis focused on:
+As principais etapas realizadas foram:
 
-- Export volume evolution over time
-- Identification of top importing countries
-- Market concentration patterns
-- Trends in Brazilian wine export growth
-
-Visualizations were created to better understand these patterns and support data-driven insights.
-
----
-
-## Key Insights
-
-Some insights identified during the analysis include:
-
-- Brazilian wine exports are concentrated in a small number of destination countries
-- Certain international markets show consistent growth patterns
-- Export performance varies significantly across different regions
-
-These findings may help identify promising markets for expansion.
+1. coleta e entendimento da base de dados
+2. limpeza e padronização das informações
+3. análise exploratória dos dados
+4. criação de visualizações para identificar padrões
+5. interpretação dos resultados com foco em negócio
 
 ---
 
-## Future Improvements
+## Principais Análises Realizadas
 
-Possible extensions of this project include:
-
-- Incorporating macroeconomic indicators
-- Including climate data related to wine production
-- Building predictive models for export forecasting
-- Creating interactive dashboards
+- evolução do volume exportado ao longo do tempo
+- identificação dos principais países importadores
+- análise da concentração das exportações
+- avaliação de padrões de crescimento e oscilação do mercado
 
 ---
 
-## Author
+## Principais Insights
 
-- Isabella Rodrigues Sandes
-- Matheus de Oliveira
-- Tiago Rodrigues de Oliveira
-- Wesley Alexander Lopes da Silva
+Alguns dos principais insights identificados foram:
 
-Postgraduate Student in Data Analytics – FIAP
+- as exportações brasileiras de vinho apresentam concentração em um número reduzido de mercados
+- determinados países demonstram maior recorrência e relevância ao longo do período analisado
+- o desempenho das exportações varia ao longo do tempo, indicando oportunidades e riscos para a estratégia comercial internacional
+
+---
+
+## Estrutura do Projeto
+
+brazil-wine-export-analytics/
+├── data/
+│   └── processed/   # bases tratadas e modeladas para análise
+├── docs/
+│   ├── brazil_wine_exports_analysis_2009_2023.pdf
+│   └── project_description.pdf
+├── notebooks/
+│   └── 01_eda.ipynb
+├── .gitignore
+└── README.md
